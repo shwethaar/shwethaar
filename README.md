@@ -1,5 +1,5 @@
 Hi, I’m @shwethaar!
-- I’m currently working at IBM India as an intern in Salesforce.
+- I’m currently working at IBM India as an intern.
 - Aspiring to be a Machine Learning Engineer.
 
 Find my profiles here:
