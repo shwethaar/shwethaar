@@ -1,6 +1,5 @@
 Hi, I’m @shwethaar!
-- I’m currently working at IBM India as an intern.
-- Aspiring to be a Machine Learning Engineer.
+- I’m currently working at Wells Fargo India as a software engineer.
 
 Find my profiles here:
 - [kaggle profile](https://www.kaggle.com/shwethaar)
